@@ -8,8 +8,8 @@ It serves as a personal collection for practice, learning, and improving problem
 - **Contest folders**: Organized by contest number or name.  
   Example: `Contest123/`
 - **Problem files**: Each problem is saved in its own file with a clear name.  
-  Example: `A_ProblemName.cpp`, `B_ProblemName.py`
-- **Language**: Solutions are primarily in C++ and Python (specify if you use other languages).
+  Example: `A_ProblemName.c`, `B_ProblemName.cpp`
+- **Language**: Solutions are currently in C, but I may add other languages such as C++, Python, JavaScript, or anything else I learn in the future.
 
 ## How to Use
 
@@ -28,9 +28,8 @@ It serves as a personal collection for practice, learning, and improving problem
 
 - Add more problems from ongoing contests.
 - Include explanations and algorithmic insights.
-- Expand support for multiple programming languages.
+- Expand support for multiple programming languages and new concepts I learn.
 
 ## Contact
 
 For suggestions or feedback, you can reach me via [GitHub](https://github.com/asmaa-aljazzar).
-
